@@ -1,0 +1,5 @@
+# Webpack bundle
+build/app.bundle.js
+
+# Dependency directories
+node_modules/
