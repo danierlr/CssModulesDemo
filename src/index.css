@@ -1,0 +1,7 @@
+.testglobal {
+  background: rgb(71, 238, 71);
+}
+
+:local(.testlocal) {
+  background: rgb(250, 240, 98);
+}
